@@ -44,7 +44,7 @@ Models were built to forecast:
 - **Standardized features** using `StandardScaler`
 - Output: R² score, best alpha, top predictive features per horizon
 
-### 🧪 Sample Output
+### Sample Output
 
 | Horizon        | R² Score | Top Features |
 |----------------|----------|--------------|
